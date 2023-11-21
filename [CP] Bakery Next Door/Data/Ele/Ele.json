@@ -1,0 +1,65 @@
+{
+	"Changes": [
+			//Ele
+		{
+			"LogName": "Ele",
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"Entries": {
+				"EleSkyy": {
+					"DisplayName": "{{i18n: Core.Name.Ele}}",
+					"Gender": "Female",
+					"Age": "Adult",
+					"Manner": "Polite",
+					"SocialAnxiety": "Outgoing",
+					"Optimism": "Positive",
+					"BirthSeason": "fall",
+					"BirthDay": "13",
+					"HomeRegion": "Town",
+					"CanBeRomanced": "False",
+					"FriendsAndFamily": {
+						"TheodoreRoosevelter": "{{i18n: Core.FriendsAndFamily.Cousin}}"
+					},
+					"Home": [
+						{
+							"ID": "Default",
+							"Location": "BusStop",
+							"Tile": { "X": 16, "Y": 11 },
+							"Direction": "down"
+						}
+					]
+				}
+			}
+		},
+		{
+			"LogName": "Ele Non-Seasonals",
+			"Action": "Load",
+			"Target": "Portraits/EleSkyy, Characters/EleSkyy",
+			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_spring.png",
+			"When": {
+				"Seasonals": false
+			}
+		},
+		{
+			"LogName": "Ele Seasonals", 
+			"Action": "Load",
+			"Target": "Portraits/EleSkyy, Characters/EleSkyy",
+			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_{{season}}.png",
+			"When": {
+				"Seasonals": true
+			}
+		},
+			//Includes
+		{
+			"LogName": "Load from Blanks - Ele",
+			"Action": "Load",
+			"Target": "Characters/Dialogue/EleSkyy, Characters/Schedules/EleSkyy",
+			"FromFile": "Data/blank.json"
+		},
+		{
+			"LogName": "Include Schedule & Dialogue - Ele",
+			"Action": "Include",
+			"FromFile": "Data/Ele/Schedule.json, Data/Ele/Dialogue.json"
+		}
+	]
+}

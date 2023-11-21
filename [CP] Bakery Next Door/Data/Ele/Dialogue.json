@@ -1,0 +1,19 @@
+{
+	"Changes": [
+		{
+			"LogName": "Ele Dialogue",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/EleSkyy",
+			"Entries": {
+				"Introduction": "{{i18n: Dialogue.Introduction.Ele}}",
+				"Mon": "{{i18n: Dialogue.Monday.Ele}}",
+				"Tue": "{{i18n: Dialogue.Tuesday.Ele}}",
+				"Wed": "{{i18n: Dialogue.Wednesday.Ele}}",
+				"Thu": "{{i18n: Dialogue.Thursday.Ele}}",
+				"Fri": "{{i18n: Dialogue.Friday.Ele}}",
+				"Sat": "{{i18n: Dialogue.Saturday.Ele}}",
+				"Sun": "{{i18n: Dialogue.Sunday.Ele}}"
+			}
+		}
+	]
+}

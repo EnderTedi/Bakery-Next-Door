@@ -1,0 +1,74 @@
+{
+	"Changes": [
+			//Theodore
+		{
+			"LogName": "Theodore",
+			"Action": "EditData",
+			"Target": "Data/Characters",
+			"Entries": {
+				"TheodoreRoosevelter": {
+					"DisplayName": "{{i18n: Core.Name.Theodore}}",
+					"Gender": "{{Gender}}",
+					"Age": "Adult",
+					"Manner": "Polite",
+					"SocialAnxiety": "Shy",
+					"Optimism": "Positive",
+					"BirthSeason": "fall",
+					"BirthDay": "28",
+					"HomeRegion": "Town",
+					"CanBeRomanced": "{{Datable}}",
+					"FriendsAndFamily": {
+						"EleSkyy": "{{i18n: Core.FriendsAndFamily.Cousin}}"
+					},
+					"Home": [
+						{
+							"ID": "Default",
+							"Location": "BusStop",
+							"Tile": { "X": 19, "Y": 11 },
+							"Direction": "down"
+						}
+					],
+					"TextureName": "TheodoreRoosevelter"/*,
+					"Appearance": [
+						{
+							"Id": "Bakery_Uniform",
+							"Condition": "LOCATION_NAME Target EnderTedi.Bakery, TIME 930 1200",
+							"Portrait": "{{InternalAssetKey: Assets/Portraits/Theodore/{{Theodore}}_bakery.png}}",
+							"Sprite": "{{InternalAssetKey: Assets/Characters/Theodore/{{Theodore}}_bakery.png}}"
+						}
+					]*/
+				}
+			}
+		},
+		{
+			"LogName": "Theodore Non-Seasonals",
+			"Action": "Load",
+			"Target": "Portraits/TheodoreRoosevelter, Characters/TheodoreRoosevelter",
+			"FromFile": "Assets/{{TargetPathOnly}}/Theodore/{{Theodore}}_spring.png",
+			"When": {
+				"Seasonals": false
+			}
+		},
+		{
+			"LogName": "Theodore Seasonals",
+			"Action": "Load",
+			"Target": "Portraits/TheodoreRoosevelter, Characters/TheodoreRoosevelter",
+			"FromFile": "Assets/{{TargetPathOnly}}/Theodore/{{Theodore}}_{{season}}.png",
+			"When": {
+				"Seasonals": true
+			}
+		},
+			//Includes
+		{
+			"LogName": "Load from Blanks - Theodore",
+			"Action": "Load",
+			"Target": "Characters/Dialogue/TheodoreRoosevelter, Characters/Schedules/TheodoreRoosevelter",
+			"FromFile": "Data/blank.json"
+		},
+		{
+			"LogName": "Include Schedule & Dialogue - Theodore",
+			"Action": "Include",
+			"FromFile": "Data/Theodore/Schedule.json, Data/Theodore/Dialogue.json"
+		}
+	]
+}

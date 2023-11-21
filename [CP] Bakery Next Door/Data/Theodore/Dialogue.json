@@ -1,0 +1,19 @@
+{
+	"Changes": [
+		{
+			"LogName": "Theodore Dialogue",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/TheodoreRoosevelter",
+			"Entries": {
+				"Introduction": "{{i18n: Dialogue.Introduction.Theodore}}",
+				"Mon": "{{i18n: Dialogue.Monday.Theodore}}",
+				"Tue": "{{i18n: Dialogue.Tuesday.Theodore}}",
+				"Wed": "{{i18n: Dialogue.Wednesday.Theodore}}",
+				"Thu": "{{i18n: Dialogue.Thursday.Theodore}}",
+				"Fri": "{{i18n: Dialogue.Friday.Theodore}}",
+				"Sat": "{{i18n: Dialogue.Saturday.Theodore}}",
+				"Sun": "{{i18n: Dialogue.Sunday.Theodore}}"
+			}
+		}
+	]
+}

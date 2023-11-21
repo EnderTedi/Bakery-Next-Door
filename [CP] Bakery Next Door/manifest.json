@@ -1,0 +1,24 @@
+{
+	"Name": "Bakery Next Door - NPCs",
+	"Author": "EnderTedi",
+	"Version": "0.0.1",
+	"Description": "Adds NPCs to Bakery Next Door",
+	"UniqueID": "EnderTedi.BakeryNextDoor",
+	"ContentPackFor": { 
+		"UniqueID": "Pathoschild.ContentPatcher" 
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "DaisyNiko.Tilesheets"
+		},
+      	{
+      		"UniqueID": "Lumisteria.LumiTilesheetsIndoor" 
+      	},
+      	{
+      		"UniqueID": "Lumisteria.TtilesheetsOutdoor"
+      	},
+	],
+	"UpdateKeys": [ 
+		"Nexus:17259"
+	]
+}  

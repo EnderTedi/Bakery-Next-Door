@@ -1,0 +1,12 @@
+{
+	"Changes": [
+		{
+			"LogName": "Schedule",
+			"Action": "EditData",
+			"Target": "Characters/Schedules/EleSkyy",
+			"Entries": {
+				"spring": "0 BusStop 16 11 2/630 BusStop 12 11 1/700 BusStop 12 15 2/730 BusStop 16 15 3/800 BusStop 16 11 0/830 BusStop 16 11 2"
+			}
+		}
+	]
+}

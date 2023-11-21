@@ -1,0 +1,31 @@
+{
+	//Configs
+	"config.Seasonals.name": "Seasonal Oufits",
+	"config.Seasonals.description": "Enable seasonal outfits\nDefault: True",
+
+	//Core
+	"Core.Name.Theodore": "Theodore",
+	"Core.Name.Ele": "Ele",
+	"Core.Location.EastBakery": "East Bakery",
+	"Core.FriendsAndFamily.Cousin": "cousin",
+
+	//Dialogue
+		//Theodore
+	"Dialogue.Introduction.Theodore": "%...#$b#Oh, sorry, didn't see you there. You're new right?$1#$b#I'm Tedi. Welcome to the valley @.$2",
+	"Dialogue.Monday.Theodore": "Test$1",
+	"Dialogue.Tuesday.Theodore": "Test$1",
+	"Dialogue.Wednesday.Theodore": "Test$1",
+	"Dialogue.Thursday.Theodore": "Test$1",
+	"Dialogue.Friday.Theodore": "Test$1",
+	"Dialogue.Saturday.Theodore": "Test$1",
+	"Dialogue.Sunday.Theodore": "Test$1",
+		//Ele
+	"Dialogue.Introduction.Ele": "Hello, I'm Ele, nice to meet you!$1#$b#See you around.$1",
+	"Dialogue.Monday.Ele": "Test$1",
+	"Dialogue.Tuesday.Ele": "Test$1",
+	"Dialogue.Wednesday.Ele": "Test$1",
+	"Dialogue.Thursday.Ele": "Test$1",
+	"Dialogue.Friday.Ele": "Test$1",
+	"Dialogue.Saturday.Ele": "Test$1",
+	"Dialogue.Sunday.Ele": "Test$1"
+}
