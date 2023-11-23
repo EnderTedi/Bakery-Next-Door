@@ -32,22 +32,10 @@
 			}
 		},
 		{
-			"LogName": "Ele Non-Seasonals",
-			"Action": "Load",
-			"Target": "Portraits/EleSkyy, Characters/EleSkyy",
-			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_spring.png",
-			"When": {
-				"Seasonals": false
-			}
-		},
-		{
 			"LogName": "Ele Seasonals", 
 			"Action": "Load",
 			"Target": "Portraits/EleSkyy, Characters/EleSkyy",
-			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_{{season}}.png",
-			"When": {
-				"Seasonals": true
-			}
+			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_{{season}}.png"
 		},
 			//Includes
 		{

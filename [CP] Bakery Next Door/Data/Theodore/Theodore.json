@@ -31,6 +31,34 @@
 					"TextureName": "TheodoreRoosevelter",
 					"Appearance": [
 						{
+							"Id": "Spring",
+							"Season": "spring",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Spring",
+							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Spring"
+						},
+						{
+							"Id": "Summer",
+							"Season": "summer",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Summer",
+							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Summer"
+						},
+						{
+							"Id": "Fall",
+							"Season": "fall",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Fall",
+							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Fall"
+						},
+						{
+							"Id": "Winter",
+							"Season": "winter",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Winter",
+							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Winter"
+						},
+						{
 							"Id": "Bakery_Uniform",
 							"Condition": "LOCATION_NAME Target EnderTedi.Bakery, TIME 930 1200",
 							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Bakery",
@@ -45,41 +73,6 @@
 			"Action": "Load",
 			"Target": "Portraits/TheodoreRoosevelter, Characters/TheodoreRoosevelter",
 			"FromFile": "Assets/{{TargetPathOnly}}/Theodore/{{Theodore}}_spring.png"
-		},
-		{
-			"LogName": "Theodore Seasonals",
-			"Action": "EditData",
-			"Target": "Data/Characters",
-			"TargetField": ["TheodoreRoosevelter", "Appearance"],
-			"Entries": {
-				"TheodoreSpring": {
-					"Id": "Spring",
-					"Season": "spring",
-					"Portrait": "Mods/EnderTedi/Portraits/Theodore_Spring",
-					"Sprite": "Mods/EnderTedi/Sprites/Theodore_Spring"
-				},
-				"TheodoreSummer": {
-					"Id": "Summer",
-					"Season": "summer",
-					"Portrait": "Mods/EnderTedi/Portraits/Theodore_Summer",
-					"Sprite": "Mods/EnderTedi/Sprites/Theodore_Summer"
-				},
-				"TheodoreFall": {
-					"Id": "Fall",
-					"Season": "fall",
-					"Portrait": "Mods/EnderTedi/Portraits/Theodore_Fall",
-					"Sprite": "Mods/EnderTedi/Sprites/Theodore_Fall"
-				},
-				"TheodoreWinter": {
-					"Id": "Winter",
-					"Season": "winter",
-					"Portrait": "Mods/EnderTedi/Portraits/Theodore_Winter",
-					"Sprite": "Mods/EnderTedi/Sprites/Theodore_Winter"
-				}
-			},
-			"When": {
-				"Seasonals": true
-			}
 		},
 			//Includes
 		{
