@@ -1,0 +1,110 @@
+{
+    "Changes": [
+            //Portraits
+        //Pre
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Tedi_Spring",
+            "FromFile": "Assets/Portraits/Theodore/tedi_spring.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Tedi_Summer",
+            "FromFile": "Assets/Portraits/Theodore/tedi_summer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Tedi_Fall",
+            "FromFile": "Assets/Portraits/Theodore/tedi_fall.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Tedi_Winter",
+            "FromFile": "Assets/Portraits/Theodore/tedi_winter.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Tedi_Bakery",
+            "FromFile": "Assets/Portraits/Theodore/tedi_bakery.png"
+        },
+        //Post
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Theodore_Spring",
+            "FromFile": "Assets/Portraits/Theodore/theodore_spring.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Theodore_Summer",
+            "FromFile": "Assets/Portraits/Theodore/theodore_summer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Theodore_Fall",
+            "FromFile": "Assets/Portraits/Theodore/theodore_fall.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Theodore_Winter",
+            "FromFile": "Assets/Portraits/Theodore/theodore_winter.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Theodore_Bakery",
+            "FromFile": "Assets/Portraits/Theodore/theodore_bakery.png"
+        },
+            //Sprites
+        //Pre
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Tedi_Spring",
+            "FromFile": "Assets/Characters/Theodore/tedi_spring.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Tedi_Summer",
+            "FromFile": "Assets/Characters/Theodore/tedi_summer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Tedi_Fall",
+            "FromFile": "Assets/Characters/Theodore/tedi_fall.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Tedi_Winter",
+            "FromFile": "Assets/Characters/Theodore/tedi_winter.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Tedi_Bakery",
+            "FromFile": "Assets/Characters/Theodore/tedi_bakery.png"
+        },
+        //Post
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Theodore_Spring",
+            "FromFile": "Assets/Characters/Theodore/theodore_spring.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Theodore_Summer",
+            "FromFile": "Assets/Characters/Theodore/theodore_summer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Theodore_Fall",
+            "FromFile": "Assets/Characters/Theodore/theodore_fall.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Theodore_Winter",
+            "FromFile": "Assets/Characters/Theodore/theodore_winter.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Theodore_Bakery",
+            "FromFile": "Assets/Characters/Theodore/theodore_bakery.png"
+        }
+    ]
+}
