@@ -4,6 +4,7 @@
 	"config.Seasonals.description": "Enable seasonal outfits\nDefault: True",
 
 	//Core
+	"Core.Name.Tedi": "Tedi",
 	"Core.Name.Theodore": "Theodore",
 	"Core.Name.Ele": "Ele",
 	"Core.Location.EastBakery": "East Bakery",
@@ -11,7 +12,7 @@
 
 	//Dialogue
 		//Theodore
-	"Dialogue.Introduction.Theodore": "%...#$b#Oh, sorry, didn't see you there. You're new right?$1#$b#I'm Tedi. Welcome to the valley @.$2",
+	"Dialogue.Introduction.Theodore": "%...#$b#Oh! Sorry, didn't see you there. I was lost in thought.$0#$b# Um, see you around, I guess...$0",
 	"Dialogue.Monday.Theodore": "Test$1",
 	"Dialogue.Tuesday.Theodore": "Test$1",
 	"Dialogue.Wednesday.Theodore": "Test$1",

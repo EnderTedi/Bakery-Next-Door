@@ -7,7 +7,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"TheodoreRoosevelter": {
-					"DisplayName": "{{i18n: Core.Name.Theodore}}",
+					"DisplayName": "{{i18n: Core.Name.{{Theodore}}}}",
 					"Gender": "{{Gender}}",
 					"Age": "Adult",
 					"Manner": "Polite",

@@ -51,7 +51,7 @@
 			"Action": "EditData",
 			"Target": "Data/Locations",
 			"Entries": {
-				"EnderTedi.EastBakery": {
+				"EnderTedi.BakeryNextDoor.EastBakery": {
 					"DisplayName": "{{i18n: Core.Location.EastBakery}}",
 					"DefaultArrivalTile": { "X" : 7, "Y": 27 },
 					"CreateOnLoad": {
@@ -68,15 +68,15 @@
 			"FromFile": "Assets/Maps/EastBakery.tmx"
 		},
 		{
-			"LogName": "Load NPCGiftTastes From Blank",
+			"LogName": "Loads From Blank",
 			"Action": "Load",
-			"Target": "Data/NPCGiftTastes",
+			"Target": "Data/NPCGiftTastes, Data/Events/EnderTedi.BakeryNextDoor.EastBakery",
 			"FromFile": "Data/blank.json"
 		},
 		{
 			"LogName": "Includes",
 			"Action": "Include",
-			"FromFile": "Data/GiftTastes.json, Data/MapPatches.json, Data/Theodore/Theodore.json, Data/Ele/Ele.json"
+			"FromFile": "Data/GiftTastes.json, Data/MapPatches.json, Data/EventData.json, Data/Theodore/Theodore.json, Data/Ele/Ele.json"
 		}
 	]
 }
