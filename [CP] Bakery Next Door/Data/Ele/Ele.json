@@ -45,9 +45,9 @@
 			"FromFile": "Data/blank.json"
 		},
 		{
-			"LogName": "Include Schedule & Dialogue - Ele",
+			"LogName": "Includes - Ele",
 			"Action": "Include",
-			"FromFile": "Data/Ele/Schedule.json, Data/Ele/Dialogue.json"
+			"FromFile": "Data/Ele/Schedule.json, Data/Ele/Dialogue.json, Data/Ele/SpriteLoads.json"
 		}
 	]
 }

@@ -1,0 +1,56 @@
+{
+    "Changes": [
+            //Portraits
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Ele_Spring",
+            "FromFile": "Assets/Portraits/Ele/Ele_spring.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Ele_Summer",
+            "FromFile": "Assets/Portraits/Ele/Ele_summer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Ele_Fall",
+            "FromFile": "Assets/Portraits/Ele/Ele_fall.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Ele_Winter",
+            "FromFile": "Assets/Portraits/Ele/Ele_winter.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Portraits/Ele_Bakery",
+            "FromFile": "Assets/Portraits/Ele/Ele_bakery.png"
+        },
+            //Sprites
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Ele_Spring",
+            "FromFile": "Assets/Characters/Ele/Ele_spring.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Ele_Summer",
+            "FromFile": "Assets/Characters/Ele/Ele_summer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Ele_Fall",
+            "FromFile": "Assets/Characters/Ele/Ele_fall.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Ele_Winter",
+            "FromFile": "Assets/Characters/Ele/Ele_winter.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/EnderTedi/Sprites/Ele_Bakery",
+            "FromFile": "Assets/Characters/Ele/Ele_bakery.png"
+        }
+    ]
+}
