@@ -6,10 +6,10 @@
 			"Action": "EditMap",
 			"Target": "Maps/BusStop",
 			"AddWarps": [
-				"31 6 EnderTedi.EastBakery 4 27",
-				"31 7 EnderTedi.EastBakery 4 27",
-				"31 8 EnderTedi.EastBakery 4 27",
-				"31 9 EnderTedi.EastBakery 4 27"
+				"31 6 {{ModId}}.EastBakery 4 27",
+				"31 7 {{ModId}}.EastBakery 4 27",
+				"31 8 {{ModId}}.EastBakery 4 27",
+				"31 9 {{ModId}}.EastBakery 4 27"
 			]
 		}
     ]

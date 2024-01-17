@@ -51,11 +51,11 @@
 			"Action": "EditData",
 			"Target": "Data/Locations",
 			"Entries": {
-				"EnderTedi.BakeryNextDoor.EastBakery": {
+				"{{ModId}}.EastBakery": {
 					"DisplayName": "{{i18n: Core.Location.EastBakery}}",
 					"DefaultArrivalTile": { "X" : 7, "Y": 27 },
 					"CreateOnLoad": {
-						"MapPath": "Mods/EnderTedi/EastBakery"
+						"MapPath": "Mods/{{ModId}}/EastBakery"
 					}
 				}
 			}
@@ -64,13 +64,13 @@
 		{
 			"LogName": "Load Map",
 			"Action": "Load",
-			"Target": "Mods/EnderTedi/EastBakery",
+			"Target": "Mods/{{ModId}}/EastBakery",
 			"FromFile": "Assets/Maps/EastBakery.tmx"
 		},
 		{
 			"LogName": "Loads From Blank",
 			"Action": "Load",
-			"Target": "Data/NPCGiftTastes, Data/Events/EnderTedi.BakeryNextDoor.EastBakery",
+			"Target": "Data/NPCGiftTastes, Data/Events/{{ModId}}.EastBakery",
 			"FromFile": "Data/blank.json"
 		},
 		{

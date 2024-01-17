@@ -1,8 +1,8 @@
 {
-	"Name": "Bakery Next Door - NPCs",
+	"Name": "Bakery Next Door",
 	"Author": "EnderTedi",
 	"Version": "0.0.1",
-	"Description": "Adds NPCs to Bakery Next Door",
+	"Description": "Bakery NextDoor",
 	"UniqueID": "EnderTedi.BakeryNextDoor",
 	"ContentPackFor": { 
 		"UniqueID": "Pathoschild.ContentPatcher" 

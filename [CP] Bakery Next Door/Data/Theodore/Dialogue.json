@@ -3,7 +3,7 @@
 		{
 			"LogName": "Theodore Dialogue",
 			"Action": "EditData",
-			"Target": "Characters/Dialogue/TheodoreRoosevelter",
+			"Target": "Characters/Dialogue/{{ModId}}.Theodore",
 			"Entries": {
 				"Introduction": "{{i18n: Dialogue.Introduction.Theodore}}",
 				"Mon": "{{i18n: Dialogue.Monday.Theodore}}",

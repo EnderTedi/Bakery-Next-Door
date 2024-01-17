@@ -6,7 +6,7 @@
 			"Action": "EditData",
 			"Target": "Data/Characters",
 			"Entries": {
-				"EleSkyy": {
+				"{{ModId}}.Ele": {
 					"DisplayName": "{{i18n: Core.Name.Ele}}",
 					"Gender": "Female",
 					"Age": "Adult",
@@ -18,7 +18,7 @@
 					"HomeRegion": "Town",
 					"CanBeRomanced": "False",
 					"FriendsAndFamily": {
-						"TheodoreRoosevelter": "{{i18n: Core.FriendsAndFamily.Cousin}}"
+						"{{ModId}}.Theodore": "{{i18n: Core.FriendsAndFamily.Cousin}}"
 					},
 					"Home": [
 						{
@@ -34,14 +34,14 @@
 		{
 			"LogName": "Ele Seasonals", 
 			"Action": "Load",
-			"Target": "Portraits/EleSkyy, Characters/EleSkyy",
+			"Target": "Portraits/{{ModId}}.Ele, Characters/{{ModId}}.Ele",
 			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_{{season}}.png"
 		},
 			//Includes
 		{
 			"LogName": "Load from Blanks - Ele",
 			"Action": "Load",
-			"Target": "Characters/Dialogue/EleSkyy, Characters/Schedules/EleSkyy",
+			"Target": "Characters/Dialogue/{{ModId}}.Ele, Characters/Schedules/{{ModId}}.Ele",
 			"FromFile": "Data/blank.json"
 		},
 		{

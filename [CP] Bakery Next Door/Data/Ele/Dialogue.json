@@ -3,7 +3,7 @@
 		{
 			"LogName": "Ele Dialogue",
 			"Action": "EditData",
-			"Target": "Characters/Dialogue/EleSkyy",
+			"Target": "Characters/Dialogue/{{ModId}}.Ele",
 			"Entries": {
 				"Introduction": "{{i18n: Dialogue.Introduction.Ele}}",
 				"Mon": "{{i18n: Dialogue.Monday.Ele}}",

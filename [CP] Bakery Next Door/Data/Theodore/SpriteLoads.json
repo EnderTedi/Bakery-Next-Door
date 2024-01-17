@@ -4,106 +4,106 @@
         //Pre
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Tedi_Spring",
+            "Target": "Mods/{{ModId}}/Portraits/Tedi_Spring",
             "FromFile": "Assets/Portraits/Theodore/tedi_spring.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Tedi_Summer",
+            "Target": "Mods/{{ModId}}/Portraits/Tedi_Summer",
             "FromFile": "Assets/Portraits/Theodore/tedi_summer.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Tedi_Fall",
+            "Target": "Mods/{{ModId}}/Portraits/Tedi_Fall",
             "FromFile": "Assets/Portraits/Theodore/tedi_fall.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Tedi_Winter",
+            "Target": "Mods/{{ModId}}/Portraits/Tedi_Winter",
             "FromFile": "Assets/Portraits/Theodore/tedi_winter.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Tedi_Bakery",
+            "Target": "Mods/{{ModId}}/Portraits/Tedi_Bakery",
             "FromFile": "Assets/Portraits/Theodore/tedi_bakery.png"
         },
         //Post
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Theodore_Spring",
+            "Target": "Mods/{{ModId}}/Portraits/Theodore_Spring",
             "FromFile": "Assets/Portraits/Theodore/theodore_spring.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Theodore_Summer",
+            "Target": "Mods/{{ModId}}/Portraits/Theodore_Summer",
             "FromFile": "Assets/Portraits/Theodore/theodore_summer.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Theodore_Fall",
+            "Target": "Mods/{{ModId}}/Portraits/Theodore_Fall",
             "FromFile": "Assets/Portraits/Theodore/theodore_fall.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Theodore_Winter",
+            "Target": "Mods/{{ModId}}/Portraits/Theodore_Winter",
             "FromFile": "Assets/Portraits/Theodore/theodore_winter.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Portraits/Theodore_Bakery",
+            "Target": "Mods/{{ModId}}/Portraits/Theodore_Bakery",
             "FromFile": "Assets/Portraits/Theodore/theodore_bakery.png"
         },
             //Sprites
         //Pre
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Tedi_Spring",
+            "Target": "Mods/{{ModId}}/Sprites/Tedi_Spring",
             "FromFile": "Assets/Characters/Theodore/tedi_spring.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Tedi_Summer",
+            "Target": "Mods/{{ModId}}/Sprites/Tedi_Summer",
             "FromFile": "Assets/Characters/Theodore/tedi_summer.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Tedi_Fall",
+            "Target": "Mods/{{ModId}}/Sprites/Tedi_Fall",
             "FromFile": "Assets/Characters/Theodore/tedi_fall.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Tedi_Winter",
+            "Target": "Mods/{{ModId}}/Sprites/Tedi_Winter",
             "FromFile": "Assets/Characters/Theodore/tedi_winter.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Tedi_Bakery",
+            "Target": "Mods/{{ModId}}/Sprites/Tedi_Bakery",
             "FromFile": "Assets/Characters/Theodore/tedi_bakery.png"
         },
         //Post
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Theodore_Spring",
+            "Target": "Mods/{{ModId}}/Sprites/Theodore_Spring",
             "FromFile": "Assets/Characters/Theodore/theodore_spring.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Theodore_Summer",
+            "Target": "Mods/{{ModId}}/Sprites/Theodore_Summer",
             "FromFile": "Assets/Characters/Theodore/theodore_summer.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Theodore_Fall",
+            "Target": "Mods/{{ModId}}/Sprites/Theodore_Fall",
             "FromFile": "Assets/Characters/Theodore/theodore_fall.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Theodore_Winter",
+            "Target": "Mods/{{ModId}}/Sprites/Theodore_Winter",
             "FromFile": "Assets/Characters/Theodore/theodore_winter.png"
         },
         {
             "Action": "Load",
-            "Target": "Mods/EnderTedi/Sprites/Theodore_Bakery",
+            "Target": "Mods/{{ModId}}/Sprites/Theodore_Bakery",
             "FromFile": "Assets/Characters/Theodore/theodore_bakery.png"
         }
     ]

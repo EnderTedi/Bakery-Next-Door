@@ -3,7 +3,7 @@
 		{
 			"LogName": "Schedule",
 			"Action": "EditData",
-			"Target": "Characters/Schedules/TheodoreRoosevelter",
+			"Target": "Characters/Schedules/{{ModId}}.Theodore",
 			"Entries": {
 				"spring": "0 BusStop 19 11 2/630 BusStop 15 11 3/700 BusStop 15 15 2/730 BusStop 19 15 1/800 BusStop 19 11 0/830 BusStop 19 11 2/840 Town 24 54 2"
 			}

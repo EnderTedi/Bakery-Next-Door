@@ -6,7 +6,7 @@
 			"Action": "EditData",
 			"Target": "Data/Characters",
 			"Entries": {
-				"TheodoreRoosevelter": {
+				"{{ModId}}.Theodore": {
 					"DisplayName": "{{i18n: Core.Name.{{Theodore}}}}",
 					"Gender": "{{Gender}}",
 					"Age": "Adult",
@@ -18,7 +18,7 @@
 					"HomeRegion": "Town",
 					"CanBeRomanced": "{{Datable}}",
 					"FriendsAndFamily": {
-						"EleSkyy": "{{i18n: Core.FriendsAndFamily.Cousin}}"
+						"{{ModId}}.Ele": "{{i18n: Core.FriendsAndFamily.Cousin}}"
 					},
 					"Home": [
 						{
@@ -28,41 +28,41 @@
 							"Direction": "down"
 						}
 					],
-					"TextureName": "TheodoreRoosevelter",
+					"TextureName": "{{ModId}}.Theodore",
 					"Appearance": [
 						{
 							"Id": "Spring",
 							"Season": "spring",
 							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
-							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Spring",
-							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Spring"
+							"Portrait": "Mods/{{ModId}}/Portraits/Theodore_Spring",
+							"Sprite": "Mods/{{ModId}}/Sprites/Theodore_Spring"
 						},
 						{
 							"Id": "Summer",
 							"Season": "summer",
 							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
-							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Summer",
-							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Summer"
+							"Portrait": "Mods/{{ModId}}/Portraits/Theodore_Summer",
+							"Sprite": "Mods/{{ModId}}/Sprites/Theodore_Summer"
 						},
 						{
 							"Id": "Fall",
 							"Season": "fall",
 							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
-							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Fall",
-							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Fall"
+							"Portrait": "Mods/{{ModId}}/Portraits/Theodore_Fall",
+							"Sprite": "Mods/{{ModId}}/Sprites/Theodore_Fall"
 						},
 						{
 							"Id": "Winter",
 							"Season": "winter",
 							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
-							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Winter",
-							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Winter"
+							"Portrait": "Mods/{{ModId}}/Portraits/Theodore_Winter",
+							"Sprite": "Mods/{{ModId}}/Sprites/Theodore_Winter"
 						},
 						{
 							"Id": "Bakery_Uniform",
 							"Condition": "LOCATION_NAME Target EnderTedi.Bakery, TIME 930 1200",
-							"Portrait": "Mods/EnderTedi/Portraits/Theodore_Bakery",
-							"Sprite": "Mods/EnderTedi/Sprites/Theodore_Bakery"
+							"Portrait": "Mods/{{ModId}}/Portraits/Theodore_Bakery",
+							"Sprite": "Mods/{{ModId}}/Sprites/Theodore_Bakery"
 						}
 					]
 				}
@@ -71,14 +71,14 @@
 		{
 			"LogName": "Theodore Sprites and Portraits",
 			"Action": "Load",
-			"Target": "Portraits/TheodoreRoosevelter, Characters/TheodoreRoosevelter",
+			"Target": "Portraits/{{ModId}}.Theodore, Characters/{{ModId}}.Theodore",
 			"FromFile": "Assets/{{TargetPathOnly}}/Theodore/{{Theodore}}_spring.png"
 		},
 			//Includes
 		{
 			"LogName": "Load from Blanks - Theodore",
 			"Action": "Load",
-			"Target": "Characters/Dialogue/TheodoreRoosevelter, Characters/Schedules/TheodoreRoosevelter",
+			"Target": "Characters/Dialogue/{{ModId}}.Theodore, Characters/Schedules/{{ModId}}.Theodore",
 			"FromFile": "Data/blank.json"
 		},
 		{
