@@ -68,23 +68,38 @@
 				}
 			}
 		},
+
 		{
 			"LogName": "Theodore Sprites and Portraits",
 			"Action": "Load",
 			"Target": "Portraits/{{ModId}}.Theodore, Characters/{{ModId}}.Theodore",
 			"FromFile": "Assets/{{TargetPathOnly}}/Theodore/{{Theodore}}_spring.png"
 		},
-			//Includes
+
+		{
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Portraits/Tedi, Mods/{{ModId}}/Portraits/Tedi_Bakery, Mods/{{ModId}}/Portraits/Theodore_Spring, Mods/{{ModId}}/Portraits/Theodore_Summer, Mods/{{ModId}}/Portraits/Theodore_Fall, Mods/{{ModId}}/Portraits/Theodore_Winter, Mods/{{ModId}}/Portraits/Theodore_Bakery",
+            "FromFile": "Assets/Portraits/Theodore/{{TargetWithoutPath}}.png"
+        },
+
+        {
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Sprites/Tedi, Mods/{{ModId}}/Sprites/Tedi_Bakery, Mods/{{ModId}}/Sprites/Theodore_Spring, Mods/{{ModId}}/Sprites/Theodore_Summer, Mods/{{ModId}}/Sprites/Theodore_Fall, Mods/{{ModId}}/Sprites/Theodore_Winter, Mods/{{ModId}}/Sprites/Theodore_Bakery",
+            "FromFile": "Assets/Sprites/Theodore/{{TargetWithoutPath}}.png"
+        },
+
+			//Includes & Loads
 		{
 			"LogName": "Load from Blanks - Theodore",
 			"Action": "Load",
 			"Target": "Characters/Dialogue/{{ModId}}.Theodore, Characters/Schedules/{{ModId}}.Theodore",
 			"FromFile": "Data/blank.json"
 		},
+
 		{
 			"LogName": "Includes - Theodore",
 			"Action": "Include",
-			"FromFile": "Data/Theodore/Schedule.json, Data/Theodore/Dialogue.json, Data/Theodore/SpriteLoads.json"
+			"FromFile": "Data/Theodore/Schedule.json, Data/Theodore/Dialogue.json"
 		}
 	]
 }

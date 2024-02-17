@@ -1,13 +1,11 @@
 {
 	"Format": "2.0.0",
-	
 	"ConfigSchema": {
 		"Seasonals": {
 			"AllowValues": "true, false",
 			"Default": "true",
 		}
 	},
-
 	"DynamicTokens": [
 		{
 			"Name": "Gender",
@@ -43,24 +41,8 @@
 			}*/
 		}
 	],
-
 	"Changes": [
-			//Maps
-		{
-			"LogName": "East Bus Stop",
-			"Action": "EditData",
-			"Target": "Data/Locations",
-			"Entries": {
-				"{{ModId}}.EastBakery": {
-					"DisplayName": "{{i18n: Core.Location.EastBakery}}",
-					"DefaultArrivalTile": { "X" : 7, "Y": 27 },
-					"CreateOnLoad": {
-						"MapPath": "Mods/{{ModId}}/EastBakery"
-					}
-				}
-			}
-		},
-			//Loads & Includes
+		//Loads & Includes
 		{
 			"LogName": "Load Map",
 			"Action": "Load",
@@ -76,7 +58,7 @@
 		{
 			"LogName": "Includes",
 			"Action": "Include",
-			"FromFile": "Data/GiftTastes.json, Data/MapPatches.json, Data/EventData.json, Data/Theodore/Theodore.json, Data/Ele/Ele.json"
+			"FromFile": "Data/GiftTastes.json, Data/Locations.json, Data/Minecarts.json, Data/EventData.json, Data/Theodore/Theodore.json, Data/Ele/Ele.json"
 		}
 	]
 }

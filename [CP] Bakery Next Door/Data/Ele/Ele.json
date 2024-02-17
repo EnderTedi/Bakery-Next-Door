@@ -27,27 +27,79 @@
 							"Tile": { "X": 16, "Y": 11 },
 							"Direction": "down"
 						}
+					],
+					"TextureName": "{{ModId}}.Ele",
+					"Appearance": [
+						{
+							"Id": "Spring",
+							"Season": "spring",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/{{ModId}}/Portraits/Ele_Spring",
+							"Sprite": "Mods/{{ModId}}/Sprites/Ele_Spring"
+						},
+						{
+							"Id": "Summer",
+							"Season": "summer",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/{{ModId}}/Portraits/Ele_Summer",
+							"Sprite": "Mods/{{ModId}}/Sprites/Ele_Summer"
+						},
+						{
+							"Id": "Fall",
+							"Season": "fall",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/{{ModId}}/Portraits/Ele_Fall",
+							"Sprite": "Mods/{{ModId}}/Sprites/Ele_Fall"
+						},
+						{
+							"Id": "Winter",
+							"Season": "winter",
+							//"Condition": "PLAYER_HAS_SEEN_EVENT EventID",
+							"Portrait": "Mods/{{ModId}}/Portraits/Ele_Winter",
+							"Sprite": "Mods/{{ModId}}/Sprites/Ele_Winter"
+						},
+						{
+							"Id": "Bakery_Uniform",
+							"Condition": "LOCATION_NAME Target EnderTedi.Bakery, TIME 930 1200",
+							"Portrait": "Mods/{{ModId}}/Portraits/Ele_Bakery",
+							"Sprite": "Mods/{{ModId}}/Sprites/Ele_Bakery"
+						}
 					]
 				}
 			}
 		},
+
 		{
-			"LogName": "Ele Seasonals", 
+			"LogName": "Ele Sprites and Portraits",
 			"Action": "Load",
 			"Target": "Portraits/{{ModId}}.Ele, Characters/{{ModId}}.Ele",
-			"FromFile": "Assets/{{TargetPathOnly}}/Ele/ele_{{season}}.png"
+			"FromFile": "Assets/{{TargetPathOnly}}/Ele/Ele_Spring.png"
 		},
-			//Includes
+
+		{
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Portraits/Ele_Spring, Mods/{{ModId}}/Portraits/Ele_Summer, Mods/{{ModId}}/Portraits/Ele_Fall, Mods/{{ModId}}/Portraits/Ele_Winter, Mods/{{ModId}}/Portraits/Ele_Bakery",
+			"FromFile": "Assets/Portraits/Ele/{{TargetWithoutPath}}.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Mods/{{ModId}}/Sprites/Ele_Spring, Mods/{{ModId}}/Sprites/Ele_Summer, Mods/{{ModId}}/Sprites/Ele_Fall, Mods/{{ModId}}/Sprites/Ele_Winter, Mods/{{ModId}}/Sprites/Ele_Bakery",
+			"FromFile": "Assets/Sprites/Ele/{{TargetWithoutPath}}.png"	
+		},
+
+		//Includes & Loads
 		{
 			"LogName": "Load from Blanks - Ele",
 			"Action": "Load",
 			"Target": "Characters/Dialogue/{{ModId}}.Ele, Characters/Schedules/{{ModId}}.Ele",
 			"FromFile": "Data/blank.json"
 		},
+
 		{
 			"LogName": "Includes - Ele",
 			"Action": "Include",
-			"FromFile": "Data/Ele/Schedule.json, Data/Ele/Dialogue.json, Data/Ele/SpriteLoads.json"
+			"FromFile": "Data/Ele/Schedule.json, Data/Ele/Dialogue.json"
 		}
 	]
 }

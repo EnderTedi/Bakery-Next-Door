@@ -7,8 +7,11 @@
 	"Core.Name.Tedi": "Tedi",
 	"Core.Name.Theodore": "Theodore",
 	"Core.Name.Ele": "Ele",
-	"Core.Location.EastBakery": "East Bakery",
 	"Core.FriendsAndFamily.Cousin": "cousin",
+
+	//Locations & Related
+	"Locations.EastBakery": "East Bakery",
+	"Minecarts.BakeryNextDoor": "Bakery Next Door",
 
 	//Dialogue
 		//Theodore

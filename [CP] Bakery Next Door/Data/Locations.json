@@ -1,0 +1,34 @@
+{
+	"Changes": [
+		//Maps
+		{
+			"LogName": "East Bus Stop",
+			"Action": "EditData",
+			"Target": "Data/Locations",
+			"Entries": {
+				"{{ModId}}.EastBakery": {
+					"DisplayName": "{{i18n: Locations.EastBakery}}",
+					"DefaultArrivalTile": {
+						"X": 7,
+						"Y": 27
+					},
+					"CreateOnLoad": {
+						"MapPath": "Mods/{{ModId}}/EastBakery"
+					}
+				}
+			}
+		},
+		//Warps
+		{
+			"LogName": "Add BusStop Warps",
+			"Action": "EditMap",
+			"Target": "Maps/BusStop",
+			"AddWarps": [
+				"31 6 {{ModId}}.EastBakery 4 27",
+				"31 7 {{ModId}}.EastBakery 4 27",
+				"31 8 {{ModId}}.EastBakery 4 27",
+				"31 9 {{ModId}}.EastBakery 4 27"
+			]
+		}
+	]
+}

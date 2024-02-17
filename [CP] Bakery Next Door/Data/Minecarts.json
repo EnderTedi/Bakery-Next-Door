@@ -1,0 +1,19 @@
+{
+    "Changes": [
+        {
+            "LogName": "Adding East Bus Stop Minecart",
+            "Action": "EditData",
+            "Target": "Data/Minecarts",
+            "TargetField": [ "Default", "Destinations" ],
+            "Entries": {
+                "BakeryNextDoor": {
+                    "Id": "BakeryNextDoor",
+                    //8 18
+                    "DisplayName": "{{i18n: Minecarts.BakeryNextDoor}}",
+                    "TargetLocation": "{{ModId}}.EastBakery",
+                    "TargetTile": { "X": 8, "Y": 18 }
+                }
+            }
+        }
+    ]
+}
