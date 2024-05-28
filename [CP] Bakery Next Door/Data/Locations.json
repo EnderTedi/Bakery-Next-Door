@@ -2,7 +2,6 @@
 	"Changes": [
 		//Maps
 		{
-			"LogName": "East Bus Stop",
 			"Action": "EditData",
 			"Target": "Data/Locations",
 			"Entries": {

@@ -85,7 +85,7 @@
 		{
 			"Action": "Load",
 			"Target": "Mods/{{ModId}}/Sprites/Ele_Spring, Mods/{{ModId}}/Sprites/Ele_Summer, Mods/{{ModId}}/Sprites/Ele_Fall, Mods/{{ModId}}/Sprites/Ele_Winter, Mods/{{ModId}}/Sprites/Ele_Bakery",
-			"FromFile": "Assets/Sprites/Ele/{{TargetWithoutPath}}.png"	
+			"FromFile": "Assets/Characters/Ele/{{TargetWithoutPath}}.png"	
 		},
 
 		//Includes & Loads

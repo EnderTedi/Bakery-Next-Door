@@ -1,0 +1,21 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/BusStop",
+            "Entries": {
+                "{{ModId}}.Theodore10H/": "continue/999 999/farmer 32 8 1 {{ModId}}.Theodore 100 100 0
+                /viewport 28 8 true
+                /speak {{ModId}}.Theodore \"(Welcome to the feedback wanted(tm) event. First I'll need to say a few notes and set the scene)$0#$b#(So, first of all, the assets for this event have not been made, this was a spur of the moment idea.)$0#$b#(You'll have to use your imagination, I'll be describing anything that cant be shown rn inside of round brackets).$0#$b#(Secondly, this event I think will be 10H for Theodore, you'll get a letter in the mail to meet Theodore at the bakery after dark or something)$0#$b#(Lets start then)$0\"
+                /move farmer 5 0 1
+                /speak {{ModId}}.Theodore \"(Ok so like, imagine a hole appears on the ground right below the farmer ok, just trust me here)\"
+                /jump farmer/faceDirection farmer 2/showFrame farmer 94/emote farmer 16
+                /globalFade
+                /speak {{ModId}}.Theodore \"(At this point in the event we've switched maps, we're in the dark, falling)$0#$b#(Slowly a sparkling night sky appears in the background and finally the farmer hits the ground, fading to black)$0#$b#(We're not switching maps rn because budget cuts)\"
+                /globalFade
+                /warp farmer 24 17/warp {{ModId}}.Theodore 23 14
+                /"
+            }
+        }
+    ]
+}
