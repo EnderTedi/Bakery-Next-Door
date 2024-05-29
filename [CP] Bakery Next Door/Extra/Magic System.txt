@@ -4,13 +4,20 @@ MAGIC SYSTEM
 
 Elves:
  ➜ Innate Magic
-  People who come from elvish roots (Referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to controll it.
+  People who come from elvish roots (Referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to control it. They are clasified as sorcerers.
 
  ➜ Innate Focus
   All elves have innate focuses, meaning they have a magic inclination towards one or more paths, they cannot choose which or how many. Their innate focus either comes from their character traits or is inherited from their bloodline. Elves cannot use other paths without attaining mastery in their innate focus(es). Not all elves can attain mastery in their innate focus(es).
 
- ➜ Spell Levels
-  Elves' magic can be split into beginner, intermediate, advanced and mastery spells. An elf can only cast a spell of an equal or lower level than their proficiency in a certain path.
+ ➜ Spellcasting
+  Spellcasting for Elves can be split into intentional spellcasting and innate spellcasting.
+    Intentional Spellcasting:
+     ➜ Intentional Spellcasting depends on path, however the most common Intentional Spellcasting methods are rituals, potions and spoken spells.
+    Innate Spellcasting
+     ➜ Innate Spellcasting includes spellcasting by intention or by emotion. Innate Spellcasting can be triggered unintentionally, especially in less experienced Elves, but can also be learned to be controlled.
+
+ ➜ Sorcery Levels
+  Elves' magic can be split into beginner, intermediate, advanced and mastery. An elf can only cast a spell of an equal or lower level than their level (proficiency) in a certain path.
 
  ➜ Basic Spell Restrictions by proficiency
     Beginner:
