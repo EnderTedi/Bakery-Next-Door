@@ -1,0 +1,62 @@
+MAGIC SYSTEM
+
+ ➜ Magic Rules
+
+Elves:
+ ➜ Innate Magic
+  People who come from elvish roots (Referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to controll it.
+
+ ➜ Innate Focus
+  All elves have innate focuses, meaning they have a magic inclination towards one or more paths, they cannot choose which or how many. Their innate focus either comes from their character traits or is inherited from their bloodline. Elves cannot use other paths without attaining mastery in their innate focus(es). Not all elves can attain mastery in their innate focus(es).
+
+ ➜ Spell Levels
+  Elves' magic can be split into beginner, intermediate, advanced and mastery spells. An elf can only cast a spell of an equal or lower level than their proficiency in a certain path.
+
+ ➜ Basic Spell Restrictions by proficiency
+    Beginner:
+     ➜ Casting multiple Beginner Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user.
+    Intermediate:
+     ➜ Casting multiple Intermediate Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Beginner Spells at a time is possible in low numbers (variable per individual).
+    Advanced:
+     ➜ Casting multiple Advanced Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Intermediate Spells at a time is possible in low numbers (variable per individual). Casting multiple Beginner Spells at a time is possible in high numbers (variable per individual).
+    Mastery:
+     ➜ Casting multiple Advanced Spells at a time is possible in low numbers (variable per individual). Casting multiple Intermediate Spells at a time is possible in higher numbers (variable per individual).
+
+ ➜ Magic Paths
+
+    1. Illusionary
+     ➜ The Illusionary Path focuses on creating illusions with magic. Illusions can come from different sources (visual, auditory or sensory). The illusionary Path cannot create objects nor life, it can only create the illusion of them. 
+     ➜ Innate Focus on the Illusionary Path provides natural protection against illusionary spells of the same or lower level than the elf's proficiency in the Illusionary Path.
+     ➜ Illusionary Path users often pair it with the Transformative Path.
+     ➜ Spell restrictions by proficiency
+        Beginner:
+         ➜ Beginner Illusionary Spells can only focus on one illusion and one source at a time.
+         ➜ Beginner Illusionary Spells can only last up to an hour at a time.
+        Intermediate:
+         ➜ Intermediate Illusionary Spells can focus on multiple illusions or multiple sources, but not both at once.
+         ➜ Intermediate Illusionary Spells last for up to an hour. Beginner Illusionary Spells can now last for up to a full day.
+        Advanced:
+         ➜ Advanced Illusionary Spells can focus on multiple illusions and multiple sources at the same time.
+         ➜ Advanced Illusionary Spells can only last for up to an hour. Intermediate Illusionary Spells can now last for up to a full day.
+        Mastery:
+         ➜ Advanced Illusionary Spells can only last for up to a full day. Beginner and Intermediate Illusionary Spells can now last indefinitely.
+
+    2. Transformative
+
+
+Junimos:
+//Listen I haven't gotten to it yet
+
+ ➜ Magic Users
+
+Theodore:
+//Listen I haven't gotten to it yet
+
+Ele:
+//Listen I haven't gotten to it yet
+
+Toil:
+//Listen I haven't gotten to it yet
+
+Trouble:
+//Listen I haven't gotten to it yet
