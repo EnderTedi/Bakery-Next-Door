@@ -14,7 +14,7 @@ Elves:
     Intentional Spellcasting:
      ➜ Intentional Spellcasting depends on path, however the most common Intentional Spellcasting methods are rituals, potions and spoken spells.
     Innate Spellcasting
-     ➜ Innate Spellcasting includes spellcasting by intention or by emotion. Innate Spellcasting can be triggered unintentionally, especially in less experienced Elves, but can also be learned to be controlled.
+     ➜ Innate Spellcasting includes spellcasting by intention or by emotion. Innate Spellcasting can be triggered unintentionally, especially in less experienced Elves, but can also be learned to be controlled. Innate Spellcasting can only cast spells of a lower level than the caster.
 
  ➜ Sorcery Levels
   Elves' magic can be split into beginner, intermediate, advanced and mastery. An elf can only cast a spell of an equal or lower level than their level (proficiency) in a certain path.
