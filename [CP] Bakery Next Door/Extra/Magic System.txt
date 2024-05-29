@@ -4,7 +4,7 @@ MAGIC SYSTEM
 
 Elves:
  ➜ Innate Magic
-  People who come from elvish roots (Referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to control it. They are clasified as sorcerers.
+  People who come from elvish roots (referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to control it. They are clasified as sorcerers.
 
  ➜ Innate Focus
   All elves have innate focuses, meaning they have a magic inclination towards one or more paths, they cannot choose which or how many. Their innate focus either comes from their character traits or is inherited from their bloodline. Elves cannot use other paths without attaining mastery in their innate focus(es). Not all elves can attain mastery in their innate focus(es).
@@ -32,24 +32,44 @@ Elves:
  ➜ Magic Paths
 
     1. Illusionary
-     ➜ The Illusionary Path focuses on creating illusions with magic. Illusions can come from different sources (visual, auditory or sensory). The illusionary Path cannot create objects nor life, it can only create the illusion of them. 
-     ➜ Innate Focus on the Illusionary Path provides natural protection against illusionary spells of the same or lower level than the elf's proficiency in the Illusionary Path.
-     ➜ Illusionary Path users often pair it with the Transformative Path.
+     ➜ The Illusionary Path focuses on creating illusions with magic. Illusions can come from different sources (visual, auditory or sensory). The illusionary Path cannot create objects nor life, it can only create the illusion of them.
+     ➜ Innate Focus on the Illusionary Path provides natural protection against illusionary Spells of the same or lower level than the elf's proficiency in the Illusionary Path.
+     ➜ The Illusionary Path is often paired with the Transformative Path.
      ➜ Spell restrictions by proficiency
         Beginner:
          ➜ Beginner Illusionary Spells can only focus on one illusion and one source at a time.
-         ➜ Beginner Illusionary Spells can only last up to an hour at a time.
+         ➜ Beginner Illusionary Spells can last up to an hour at a time.
         Intermediate:
          ➜ Intermediate Illusionary Spells can focus on multiple illusions or multiple sources, but not both at once.
          ➜ Intermediate Illusionary Spells last for up to an hour. Beginner Illusionary Spells can now last for up to a full day.
         Advanced:
          ➜ Advanced Illusionary Spells can focus on multiple illusions and multiple sources at the same time.
-         ➜ Advanced Illusionary Spells can only last for up to an hour. Intermediate Illusionary Spells can now last for up to a full day.
+         ➜ Advanced Illusionary Spells can last for up to an hour. Intermediate Illusionary Spells can now last for up to a full day.
         Mastery:
-         ➜ Advanced Illusionary Spells can only last for up to a full day. Beginner and Intermediate Illusionary Spells can now last indefinitely.
+         ➜ Advanced Illusionary Spells can last for up to a full day. Beginner and Intermediate Illusionary Spells can now last indefinitely.
 
     2. Transformative
+     ➜ The Transformative Path focuses on transformations. Transformations include changing an objects physical form, physical properties, chemical properties or a living being's outer appearance. Transformations have to adhere to reason and logic and cannot create something which does not already exist.
+     ➜ Innate Focus on the Transformative Path provides natural immunity to Transformative Spells cast on the individual from spells of the same or lower level than the elf's proficiency in the Transformative Path.
+     ➜ The Transformative Path is often paired with the Illusionary Path.
+     ➜ Spell restrictions by proficiency
+        Beginner:
+         ➜ Beginner Transformative Spells can only change an object's physical form or a living being's outer appearance. They cannot change physical properties or chemical properties.
+         ➜ Beginner Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's form does not match with its physical properties.
+         ➜ An object's original identity can still be traced and be recovered after being altered by a Beginner Transformative Spell.
+        Intermediate:
+         ➜ Intermediate Transformative Spells can change an object's physical properties, such as changing an object's hardness, color, density etc. They cannot change an object's chemical properties.
+         ➜ Intermediate Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's physical properties do not match with its physical form. Beginner and Intermediate Transformative Spells become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and can break on a whim if imporperly paired.
+         ➜ An object's original identity can still be traced and be recovered after being altered by a Beginner Transformative Spell, Intermediate Transformative Spell or both.
+        Advanced:
+         ➜ Advanced Transformative Spells can change an object's chemical properties.
+         ➜ Advanced Transformative Spells are mostly stable, but can be intentionally undone. Advanced Transformative Spells can be combined with Beginner or Intermediate Transformative Spells to become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and break on a whim if imporperly paired. Cannot combine all 3 spell levels at once.
+         ➜ An object's original identity can still be traced and be recovered after being altered by an Advanced Transformative Spell or a combination of 2 spell levels.
+        Mastery:
+         ➜ Beginner, Intermediate and Advanced Transformative Spells can now all be combined together at once. If properly paired they become fully stable and cannot be undone, if imporperly paired they become unstable and chaotic and can break on a whim, altering objects and living beings around it in a certain radius (variable depending on the altered object's size).
+         ➜ An object's original identity is lost and cannot be recovered after being properly altered by a combined Beginner Transformative Spell, Intermediate Transformative Spell and Advanced Transformative Spell (Form, Physical and Chemical Properties).
 
+    3. //WIP, Other paths not designed yet
 
 Junimos:
 //Listen I haven't gotten to it yet
