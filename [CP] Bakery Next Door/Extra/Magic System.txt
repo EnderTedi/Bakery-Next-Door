@@ -3,73 +3,91 @@ MAGIC SYSTEM
  ➜ Magic Rules
 
 Elves:
- ➜ Innate Magic
-  People who come from elvish roots (referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to control it. They are clasified as sorcerers.
+   ➜ Innate Magic
+   People who come from elvish roots (referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to control it. They are classified as sorcerers.
 
- ➜ Innate Focus
-  All elves have innate focuses, meaning they have a magic inclination towards one or more paths, they cannot choose which or how many. Their innate focus either comes from their character traits or is inherited from their bloodline. Elves cannot use other paths without attaining mastery in their innate focus(es). Not all elves can attain mastery in their innate focus(es).
+   ➜ Innate Focus
+   All elves have innate focuses, meaning they have a magic inclination towards one or more paths, they cannot choose which or how many. Their innate focus either comes from their character traits or is inherited from their bloodline. Elves cannot use other paths without attaining mastery in their innate focus(es). Not all elves can attain mastery in their innate focus(es).
 
- ➜ Spellcasting
-  Spellcasting for Elves can be split into intentional spellcasting and innate spellcasting.
-    Intentional Spellcasting:
-     ➜ Intentional Spellcasting depends on path, however the most common Intentional Spellcasting methods are rituals, potions and spoken spells.
-    Innate Spellcasting
-     ➜ Innate Spellcasting includes spellcasting by intention or by emotion. Innate Spellcasting can be triggered unintentionally, especially in less experienced Elves, but can also be learned to be controlled. Innate Spellcasting can only cast spells of a lower level than the caster.
+   ➜ Spellcasting
+   Spellcasting for Elves can be split into intentional spellcasting and innate spellcasting.
 
- ➜ Sorcery Levels
-  Elves' magic can be split into beginner, intermediate, advanced and mastery. An elf can only cast a spell of an equal or lower level than their level (proficiency) in a certain path.
+      Intentional Spellcasting:
+      ➜ Intentional Spellcasting depends on path, however the most common Intentional Spellcasting methods are rituals, potions and spoken spells.
+      Innate Spellcasting
+      ➜ Innate Spellcasting includes spellcasting by intention or by emotion. Innate Spellcasting can be triggered unintentionally, especially in less experienced Elves, but can also be learned to be controlled. Innate Spellcasting can only cast spells of a lower level than the caster.
 
- ➜ Basic Spell Restrictions by proficiency
-    Beginner:
-     ➜ Casting multiple Beginner Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user.
-    Intermediate:
-     ➜ Casting multiple Intermediate Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Beginner Spells at a time is possible in low numbers (variable per individual).
-    Advanced:
-     ➜ Casting multiple Advanced Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Intermediate Spells at a time is possible in low numbers (variable per individual). Casting multiple Beginner Spells at a time is possible in high numbers (variable per individual).
-    Mastery:
-     ➜ Casting multiple Advanced Spells at a time is possible in low numbers (variable per individual). Casting multiple Intermediate Spells at a time is possible in higher numbers (variable per individual).
+   ➜ Sorcery Levels
+   Elves' magic can be split into beginner, intermediate, advanced and mastery. An elf can only cast a spell of an equal or lower level than their level (proficiency) in a certain path.
 
- ➜ Magic Paths
+   ➜ Basic Spell Restrictions by proficiency
 
-    1. Illusionary
-     ➜ The Illusionary Path focuses on creating illusions with magic. Illusions can come from different sources (visual, auditory or sensory). The illusionary Path cannot create objects nor life, it can only create the illusion of them.
-     ➜ Innate Focus on the Illusionary Path provides natural protection against illusionary Spells of the same or lower level than the elf's proficiency in the Illusionary Path.
-     ➜ The Illusionary Path is often paired with the Transformative Path.
-     ➜ Spell restrictions by proficiency
-        Beginner:
+      Beginner:
+      ➜ Casting multiple Beginner Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user.
+      Intermediate:
+      ➜ Casting multiple Intermediate Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Beginner Spells at a time is possible in low numbers (variable per individual).
+      Advanced:
+      ➜ Casting multiple Advanced Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Intermediate Spells at a time is possible in low numbers (variable per individual). Casting multiple Beginner Spells at a time is possible in high numbers (variable per individual).
+      Mastery:
+      ➜ Casting multiple Advanced Spells at a time is possible in low numbers (variable per individual). Casting multiple Intermediate Spells at a time is possible in higher numbers (variable per individual).
+
+   ➜ Magic Paths
+
+      1. Illusionary
+      ➜ The Illusionary Path focuses on creating illusions with magic. Illusions can come from different sources (visual, auditory or sensory). The illusionary Path cannot create objects nor life, it can only create the illusion of them.
+      ➜ Innate Focus on the Illusionary Path provides natural protection against illusionary Spells of the same or lower level than the elf's proficiency in the Illusionary Path.
+      ➜ The Illusionary Path is often paired with the Transformative Path.
+      ➜ Spell restrictions by proficiency
+
+         Beginner:
          ➜ Beginner Illusionary Spells can only focus on one illusion and one source at a time.
          ➜ Beginner Illusionary Spells can last up to an hour at a time.
-        Intermediate:
+         Intermediate:
          ➜ Intermediate Illusionary Spells can focus on multiple illusions or multiple sources, but not both at once.
          ➜ Intermediate Illusionary Spells last for up to an hour. Beginner Illusionary Spells can now last for up to a full day.
-        Advanced:
+         Advanced:
          ➜ Advanced Illusionary Spells can focus on multiple illusions and multiple sources at the same time.
          ➜ Advanced Illusionary Spells can last for up to an hour. Intermediate Illusionary Spells can now last for up to a full day.
-        Mastery:
+         Mastery:
          ➜ Advanced Illusionary Spells can last for up to a full day. Beginner and Intermediate Illusionary Spells can now last indefinitely.
 
-    2. Transformative
-     ➜ The Transformative Path focuses on transformations. Transformations include changing an objects physical form, physical properties, chemical properties or a living being's outer appearance. Transformations have to adhere to reason and logic and cannot create something which does not already exist.
-     ➜ Innate Focus on the Transformative Path provides natural immunity to Transformative Spells cast on the individual from spells of the same or lower level than the elf's proficiency in the Transformative Path.
-     ➜ The Transformative Path is often paired with the Illusionary Path.
-     ➜ Spell restrictions by proficiency
-        Beginner:
+      2. Transformative
+      ➜ The Transformative Path focuses on transformations. Transformations include changing an objects physical form, physical properties, chemical properties or a living being's outer appearance. Transformations have to adhere to reason and logic and cannot create something which does not already exist.
+      ➜ Innate Focus on the Transformative Path provides natural immunity to Transformative Spells cast on the individual from spells of the same or lower level than the elf's proficiency in the Transformative Path.
+      ➜ The Transformative Path is often paired with the Illusionary Path or the Living Path.
+      ➜ Spell restrictions by proficiency
+
+         Beginner:
          ➜ Beginner Transformative Spells can only change an object's physical form or a living being's outer appearance. They cannot change physical properties or chemical properties.
          ➜ Beginner Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's form does not match with its physical properties.
          ➜ An object's original identity can still be traced and be recovered after being altered by a Beginner Transformative Spell.
-        Intermediate:
+         Intermediate:
          ➜ Intermediate Transformative Spells can change an object's physical properties, such as changing an object's hardness, color, density etc. They cannot change an object's chemical properties.
-         ➜ Intermediate Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's physical properties do not match with its physical form. Beginner and Intermediate Transformative Spells become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and can break on a whim if imporperly paired.
+         ➜ Intermediate Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's physical properties do not match with its physical form. Beginner and Intermediate Transformative Spells become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and can break on a whim if improperly paired.
          ➜ An object's original identity can still be traced and be recovered after being altered by a Beginner Transformative Spell, Intermediate Transformative Spell or both.
-        Advanced:
+         Advanced:
          ➜ Advanced Transformative Spells can change an object's chemical properties.
-         ➜ Advanced Transformative Spells are mostly stable, but can be intentionally undone. Advanced Transformative Spells can be combined with Beginner or Intermediate Transformative Spells to become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and break on a whim if imporperly paired. Cannot combine all 3 spell levels at once.
+         ➜ Advanced Transformative Spells are mostly stable, but can be intentionally undone. Advanced Transformative Spells can be combined with Beginner or Intermediate Transformative Spells to become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and break on a whim if improperly paired. Cannot combine all 3 spell levels at once.
          ➜ An object's original identity can still be traced and be recovered after being altered by an Advanced Transformative Spell or a combination of 2 spell levels.
-        Mastery:
-         ➜ Beginner, Intermediate and Advanced Transformative Spells can now all be combined together at once. If properly paired they become fully stable and cannot be undone, if imporperly paired they become unstable and chaotic and can break on a whim, altering objects and living beings around it in a certain radius (variable depending on the altered object's size).
+         Mastery:
+         ➜ Beginner, Intermediate and Advanced Transformative Spells can now all be combined together at once. If properly paired they become fully stable and cannot be undone, if improperly paired they become unstable and chaotic and can break on a whim, altering objects and living beings around it in a certain radius (variable depending on the altered object's size).
          ➜ An object's original identity is lost and cannot be recovered after being properly altered by a combined Beginner Transformative Spell, Intermediate Transformative Spell and Advanced Transformative Spell (Form, Physical and Chemical Properties).
 
-    3. //WIP, Other paths not designed yet
+      3. Living
+      ➜ The Living Path focuses on living beings. It can mend, change, create and if used correctly, destroy, damage or end lives.
+      ➜ Innate Focus on the Living Path provides enhanced natural healing and enhanced protection against common sicknesses.
+      ➜ The Living Path is often paired up with the Transformative Path.
+      ➜ Spell Restrictions by proficiency
+
+         Beginner:
+         ➜ Beginner Living Spells include basic healing, such as treating small external injuries (wounds, etc), healing common illnesses and weak calming spells which can ease small causes of stress.
+         ➜ Beginner Living Spells also include ailment identification. Useful when paired with medical knowledge. 
+         Intermediate:
+         ➜
+         Advanced:
+         Mastery:
+
+      4. //WIP, Other paths not designed yet
 
 Junimos:
 //Listen I haven't gotten to it yet

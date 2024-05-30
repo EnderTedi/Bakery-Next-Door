@@ -1806,7 +1806,7 @@
   <image source="Mines/mine_desert.png" width="256" height="288"/>
  </tileset>
  <tileset firstgid="9226" name="untitled tile sheet" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
-  <image source="../../../../Junimo's Spirit's Eve/[CP] Junimo's Spirit's Eve/Assets/Maps/spring_outdoorsTileSheet.png" width="400" height="1264"/>
+  <image source="spring_outdoorsTileSheet.png" width="400" height="1264"/>
   <tile id="150">
    <properties>
     <property name="Spawnable" value="T"/>
