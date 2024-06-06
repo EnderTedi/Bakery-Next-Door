@@ -1,100 +1,56 @@
 MAGIC SYSTEM
 
- ➜ Magic Rules
-
-Elves:
-   ➜ Innate Magic
-   People who come from elvish roots (referred to as "Elves" going forth) are born with the power to harness innate magic, though not all use it, whether out of decision not to or inability to control it. They are classified as sorcerers.
-
-   ➜ Innate Focus
-   All elves have innate focuses, meaning they have a magic inclination towards one or more paths, they cannot choose which or how many. Their innate focus either comes from their character traits or is inherited from their bloodline. Elves cannot use other paths without attaining mastery in their innate focus(es). Not all elves can attain mastery in their innate focus(es).
+Rules:
+   ➜ Attaining Magic
+   Magic can be a natural innate ability possessed by magical races, but it can also be learned through study.
 
    ➜ Spellcasting
-   Spellcasting for Elves can be split into intentional spellcasting and innate spellcasting.
+   Spellcasting includes rituals, potions and spoken spells (contrary to the name, they do not have to be spoken aloud). The bigger the scope of the spell, the more taxing it is on the individual, either emotionally, mentally or physically.
 
-      Intentional Spellcasting:
-      ➜ Intentional Spellcasting depends on path, however the most common Intentional Spellcasting methods are rituals, potions and spoken spells.
-      Innate Spellcasting
-      ➜ Innate Spellcasting includes spellcasting by intention or by emotion. Innate Spellcasting can be triggered unintentionally, especially in less experienced Elves, but can also be learned to be controlled. Innate Spellcasting can only cast spells of a lower level than the caster.
-
-   ➜ Sorcery Levels
-   Elves' magic can be split into beginner, intermediate, advanced and mastery. An elf can only cast a spell of an equal or lower level than their level (proficiency) in a certain path.
-
-   ➜ Basic Spell Restrictions by proficiency
-
-      Beginner:
-      ➜ Casting multiple Beginner Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user.
-      Intermediate:
-      ➜ Casting multiple Intermediate Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Beginner Spells at a time is possible in low numbers (variable per individual).
-      Advanced:
-      ➜ Casting multiple Advanced Spells at a time is impossible without the help of a magic aid, such as a magical artifact or help from another magic user. Casting multiple Intermediate Spells at a time is possible in low numbers (variable per individual). Casting multiple Beginner Spells at a time is possible in high numbers (variable per individual).
-      Mastery:
-      ➜ Casting multiple Advanced Spells at a time is possible in low numbers (variable per individual). Casting multiple Intermediate Spells at a time is possible in higher numbers (variable per individual).
+   ➜ Innate Focuses
+   Innate Focuses are a feature of some magical races, but not all. Innate Focuses indicate paths or sections of magic in which an individual is naturally attuned to or inclined towards.
 
    ➜ Magic Paths
+   Magic is generally split into different paths, covering different aspects of magic and reality which act as limits for what one can achieve using magic. There are 5 basic paths. A magical race can have additional paths, fewer paths or no paths (every individual's magic works the same way with the same limitations).
 
-      1. Illusionary
-      ➜ The Illusionary Path focuses on creating illusions with magic. Illusions can come from different sources (visual, auditory or sensory). The illusionary Path cannot create objects nor life, it can only create the illusion of them.
-      ➜ Innate Focus on the Illusionary Path provides natural protection against illusionary Spells of the same or lower level than the elf's proficiency in the Illusionary Path.
-      ➜ The Illusionary Path is often paired with the Transformative Path.
-      ➜ Spell restrictions by proficiency
+   The 5 basic paths are: Glamour, Matter, Chance, Connections and Existence.
 
-         Beginner:
-         ➜ Beginner Illusionary Spells can only focus on one illusion and one source at a time.
-         ➜ Beginner Illusionary Spells can last up to an hour at a time.
-         Intermediate:
-         ➜ Intermediate Illusionary Spells can focus on multiple illusions or multiple sources, but not both at once.
-         ➜ Intermediate Illusionary Spells last for up to an hour. Beginner Illusionary Spells can now last for up to a full day.
-         Advanced:
-         ➜ Advanced Illusionary Spells can focus on multiple illusions and multiple sources at the same time.
-         ➜ Advanced Illusionary Spells can last for up to an hour. Intermediate Illusionary Spells can now last for up to a full day.
-         Mastery:
-         ➜ Advanced Illusionary Spells can last for up to a full day. Beginner and Intermediate Illusionary Spells can now last indefinitely.
+   Magical races with Innate Focuses can possess an additional path, the Fragmented Paths. Fragmented Paths are innate focuses which failed to form, paths which never were. They're unstable and unpredictable, they might take shape and become a real path, or they might self destruct and cause mass harm, perhaps something in between, no one can know until it happens.
 
-      2. Transformative
-      ➜ The Transformative Path focuses on transformations. Transformations include changing an objects physical form, physical properties, chemical properties or a living being's outer appearance. Transformations have to adhere to reason and logic and cannot create something which does not already exist.
-      ➜ Innate Focus on the Transformative Path provides natural immunity to Transformative Spells cast on the individual from spells of the same or lower level than the elf's proficiency in the Transformative Path.
-      ➜ The Transformative Path is often paired with the Illusionary Path or the Living Path.
-      ➜ Spell restrictions by proficiency
+   ➜ Paths
 
-         Beginner:
-         ➜ Beginner Transformative Spells can only change an object's physical form or a living being's outer appearance. They cannot change physical properties or chemical properties.
-         ➜ Beginner Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's form does not match with its physical properties.
-         ➜ An object's original identity can still be traced and be recovered after being altered by a Beginner Transformative Spell.
-         Intermediate:
-         ➜ Intermediate Transformative Spells can change an object's physical properties, such as changing an object's hardness, color, density etc. They cannot change an object's chemical properties.
-         ➜ Intermediate Transformative Spells are fragile and can be easily undone, either intentionally or unintentionally, if an object's physical properties do not match with its physical form. Beginner and Intermediate Transformative Spells become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and can break on a whim if improperly paired.
-         ➜ An object's original identity can still be traced and be recovered after being altered by a Beginner Transformative Spell, Intermediate Transformative Spell or both.
-         Advanced:
-         ➜ Advanced Transformative Spells can change an object's chemical properties.
-         ➜ Advanced Transformative Spells are mostly stable, but can be intentionally undone. Advanced Transformative Spells can be combined with Beginner or Intermediate Transformative Spells to become mostly stable if properly paired with each other, but can be undone intentionally, and become fully unstable and break on a whim if improperly paired. Cannot combine all 3 spell levels at once.
-         ➜ An object's original identity can still be traced and be recovered after being altered by an Advanced Transformative Spell or a combination of 2 spell levels.
-         Mastery:
-         ➜ Beginner, Intermediate and Advanced Transformative Spells can now all be combined together at once. If properly paired they become fully stable and cannot be undone, if improperly paired they become unstable and chaotic and can break on a whim, altering objects and living beings around it in a certain radius (variable depending on the altered object's size).
-         ➜ An object's original identity is lost and cannot be recovered after being properly altered by a combined Beginner Transformative Spell, Intermediate Transformative Spell and Advanced Transformative Spell (Form, Physical and Chemical Properties).
+      1. The Path of Glamour
+      ➜ The ability to change. Create an illusion, alter appearances, change one's views. This is the Path of Glamour.
 
-      3. Living
-      ➜ The Living Path focuses on living beings. It can mend, change, create and if used correctly, destroy, damage or end lives.
-      ➜ Innate Focus on the Living Path provides enhanced natural healing and enhanced protection against common sicknesses.
-      ➜ The Living Path is often paired up with the Transformative Path.
-      ➜ Spell Restrictions by proficiency
+      2. The Path of Matter
+      ➜ The ability to alter. Transmutation, transformation, shapeshifting, repairing what's broken. This is the Path of Matter.
 
-         Beginner:
-         ➜ Beginner Living Spells include basic healing, such as treating small external injuries (wounds, etc), healing common illnesses and weak calming spells which can ease small causes of stress.
-         ➜ Beginner Living Spells also include ailment identification. Useful when paired with medical knowledge. 
-         Intermediate:
-         ➜
-         Advanced:
-         Mastery:
+      3. The Path of Chance
+      ➜ The ability to influence. Alter outcomes, influence decisions, predict chance. This is the Path of Chance.   
 
-      4. //WIP, Other paths not designed yet
+      4. The Path of Connections
+      ➜ The ability to connect. Link together destinies, minds, concepts, observe and sever connections. This is the Path of Connections.
 
-Junimos:
-//Listen I haven't gotten to it yet
+      5. The Path of Existence
+      ➜ The ability to adapt. Create new life, destroy it, adapt existing life, heal life. This is the Path of Existence.
 
- ➜ Magic Users
+Features by Magical Race:
+
+➜ Elves:
+   ➜ Have Innate Focuses.
+   ➜ Possess the paths of Glamour, Matter, Chance, Connections, Existence and the Fragmented Paths.
+
+➜ Junimos:
+   ➜ No Innate Focus.
+   ➜ No paths.
+   ➜ Instead of paths, Junimos can possess Solar and Void affinities.
+
+Magic Users: 
 
 Theodore:
+//Listen I haven't gotten to it yet
+
+Tedi:
 //Listen I haven't gotten to it yet
 
 Ele:
